@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sycarion Continuum</title>
+    <link href="https://sycarion.github.io/feed.xml" rel="self" />
+    <link href="https://sycarion.github.io" />
+    <updated>2023-07-06T19:37:01-05:00</updated>
+    <author>
+        <name>Bear</name>
+    </author>
+    <id>https://sycarion.github.io</id>
+
+    <entry>
+        <title>Learning a Static Site Generator</title>
+        <author>
+            <name>Bear</name>
+        </author>
+        <link href="https://sycarion.github.io/learning-a-static-site-generator/"/>
+        <id>https://sycarion.github.io/learning-a-static-site-generator/</id>
+
+        <updated>2023-07-06T19:37:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Working on learning a site generator. Let's see how it goes.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Working on learning a site generator. Let's see how it goes.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

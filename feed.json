@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sycarion Continuum",
+    "description": "",
+    "home_page_url": "https://sycarion.github.io",
+    "feed_url": "https://sycarion.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bear"
+    },
+    "items": [
+        {
+            "id": "https://sycarion.github.io/learning-a-static-site-generator/",
+            "url": "https://sycarion.github.io/learning-a-static-site-generator/",
+            "title": "Learning a Static Site Generator",
+            "summary": "Working on learning a site generator. Let's see how it goes.",
+            "content_html": "<p>Working on learning a site generator. Let's see how it goes.</p>",
+            "author": {
+                "name": "Bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-06T19:37:01-05:00",
+            "date_modified": "2023-07-06T19:37:01-05:00"
+        }
+    ]
+}

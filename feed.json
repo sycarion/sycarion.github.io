@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://sycarion.github.io/a-new-universe/",
+            "url": "https://sycarion.github.io/a-new-universe/",
+            "title": "A New Universe",
+            "summary": "When I was in college, I wrote a handful of stories based in an alternate version of my home town. One of the&hellip;",
+            "content_html": "<p>When I was in college, I wrote a handful of stories based in an alternate version of my home town. One of the major characters was Jeremiah Matherson, a local hero that ran the local store in the 40s and 50s. Rationing was difficult in my hometown and in these stories, Matherson used his mistrust of authority to help everyone. <a href=\"http://prairiecomber.pinakidion.org/fistful-of-diamonds/\" target=\"_blank\" rel=\"noopener noreferrer\">A Fistful of Diamonds</a> is my favorite story that has him as a character.</p>\n<p>The main character that tied all the stories together, though, was Numbers the cat. With an impossibly long lifespan, Numbers was known and loved by generations of people that frequented Matherson's store. He would disappear occasionally, sometimes for months at a time. By the time the events of Fistful of Diamonds takes place, he is believed to be between 25 and 40 years old. Shortly after this story, a second cat appears when Numbers is gone for long stretches. Named Deuteronomy, this cat makes appearances until the late 90s. A third cat appears in the 80s, but Joshua proves to be much more ordinary than her ancestors. She barely lives twelve years.</p>\n<p>The secret of Numbers the cat was his time travel. He found a small entrance just big enough to squeeze through to take him to random places in time both past and future. In a couple of stories, he is playing with untimely toys from the distant past and near future.</p>\n<p>For the purposes of my stories, this will be universe 4 Numbers I. The Compendium has only encountered this accidental tourist in time one time. It was entirely accidental when a Compendium employee was briefly stranded near Matherson's store circa 1955. The chronoton particle readings were very high which merited some study.</p>\n<p>Numbers regarded his stay at the Compendium as the place with horrible food and little amusement. He disappeared one day and no one has discovered how he left. They were able to verify that he returned home to Matherson's store, but no one ever determined what magic or device allowed him to return.</p>",
+            "image": "https://sycarion.github.io/media/posts/9/Numbers-the-Cat.jpg",
+            "author": {
+                "name": "Bear"
+            },
+            "tags": [
+                   "worldbuilding",
+                   "paper pills",
+                   "4 Numbers I"
+            ],
+            "date_published": "2023-07-21T10:58:17-05:00",
+            "date_modified": "2023-07-21T10:58:17-05:00"
+        },
+        {
             "id": "https://sycarion.github.io/cuarapom-a-lost-dice-game/",
             "url": "https://sycarion.github.io/cuarapom-a-lost-dice-game/",
             "title": "Cúarapom – A Lost Dice Game",

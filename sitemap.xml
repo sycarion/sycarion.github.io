@@ -40,4 +40,12 @@
 <loc>https://sycarion.github.io/learning-a-static-site-generator/</loc>
 <lastmod>2023-07-06T19:37:01-05:00</lastmod>
 </url>
+<url>
+<loc>https://sycarion.github.io/the-vending-machine/</loc>
+<lastmod>2023-07-22T14:43:47-05:00</lastmod>
+<image:image>
+<image:loc>https://sycarion.github.io/media/posts/10/VendingMachine.jpg</image:loc>
+<image:title><![CDATA[A picture of an old black vending machine]]></image:title>
+</image:image>
+</url>
 </urlset>

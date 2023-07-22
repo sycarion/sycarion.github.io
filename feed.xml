@@ -3,12 +3,44 @@
     <title>Sycarion Continuum</title>
     <link href="https://sycarion.github.io/feed.xml" rel="self" />
     <link href="https://sycarion.github.io" />
-    <updated>2023-07-21T10:58:17-05:00</updated>
+    <updated>2023-07-22T14:43:47-05:00</updated>
     <author>
         <name>Bear</name>
     </author>
     <id>https://sycarion.github.io</id>
 
+    <entry>
+        <title>The Vending Machine</title>
+        <author>
+            <name>Bear</name>
+        </author>
+        <link href="https://sycarion.github.io/the-vending-machine/"/>
+        <id>https://sycarion.github.io/the-vending-machine/</id>
+        <media:content url="https://sycarion.github.io/media/posts/10/VendingMachine.jpg" medium="image" />
+            <category term="writing"/>
+            <category term="worldbuilding"/>
+            <category term="3 Vending Machine II"/>
+
+        <updated>2023-07-22T14:43:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sycarion.github.io/media/posts/10/VendingMachine.jpg" alt="A picture of an old black vending machine" />
+                    During my time off for the past two weeks, I have been organizing my gaming and writing projects. I have so many over&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sycarion.github.io/media/posts/10/VendingMachine.jpg" class="type:primaryImage" alt="A picture of an old black vending machine" /></p>
+                <p>During my time off for the past two weeks, I have been organizing my gaming and writing projects. I have so many over the years that have been interrupted by one thing or another. Yesterday, I uncovered a story cycle that I had forgotten. The working title was <em>Perpetuation of Righteousness</em>. I'll definitely rename it.</p>
+<p>The story cycle features the main character, Rick, and his friends, family, and co-workers. Over the course of the stories, he holds the same job for 30 years in the same building. His two main issues, though, are blinding headaches and the nagging suspicion that he moves in time differently from others.</p>
+<p>The clues are subtle and difficult to tie together. For example, when feeling a headache coming on, he fishes through his change to see if he has the new Montana quarter as a distraction. Instead, he finds a new Hawaii quarter. At this point in the story, he is in 2007, but the Hawaii quarter didn't come out until 2008. The radio in his car is set to FM 94.1, a top 40 station. Sometimes, though it will play 70s soul and R&amp;B music. At other times it is an Urban Contemporary station. The soul music can be dismissed as a part of Flashback Fridays when the station played soul in the 60s and 70s. The local paper will sometimes feature stories of a buyout of the station from an out-of-state group of owners. A few times when driving his wife's car to to work, he can't find it in the parking lot. It's one of those gray four-door sedans that all look the same. He writes this off as work-related stress.</p>
+<p>The one thing that seems to remain constant is the vending machine in the break room. For his entire 30 year career, the large black box with old yellowing buttons has never changed. He was shocked to find a Pepsi Free stocked in it one day, but the soda companies are always doing nostalgia callbacks.</p>
+<p>Besides, he wasn't even in this city in the 80s, he was over 1000 miles away.</p>
+<p>If I finish the story cycle of this universe, it will be universe 3 Vending Machine II. Apparently the Compendium has encountered at least one other vending machine that generates its own<a href="https://sycarion.github.io/cosmology/" target="_blank" rel="noopener noreferrer"> hexaton field</a>.</p>
+<p>These stories are semi-biographical and deal with the unreliability of memory and the fantasies that can grow out of many years of mindless routine.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A New Universe</title>
         <author>

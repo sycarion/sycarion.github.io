@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sycarion.github.io/sitemap.xml

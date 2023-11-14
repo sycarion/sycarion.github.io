@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sycarion.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sycarion.github.io/</loc>
+</url>
+<url>
+<loc>https://sycarion.github.io/a-new-universe/</loc>
+<lastmod>2023-07-21T10:58:17-05:00</lastmod>
+<image:image>
+<image:loc>https://sycarion.github.io/media/posts/9/Numbers-the-Cat.jpg</image:loc>
+<image:title><![CDATA[A drawing of a gray tabby cat circa 1890]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sycarion.github.io/changing-serve-configuration/</loc>
+<lastmod>2023-11-13T19:49:06-06:00</lastmod>
+</url>
+<url>
+<loc>https://sycarion.github.io/cosmology/</loc>
+<lastmod>2023-07-22T14:46:05-05:00</lastmod>
+<image:image>
+<image:loc>https://sycarion.github.io/media/posts/3/mandala-kunst-muster-hintergrund-16646296963a7.jpg</image:loc>
+<image:title><![CDATA[A mandala representing the complex nature of existence]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sycarion.github.io/cuarapom-a-lost-dice-game/</loc>
+<lastmod>2023-07-08T08:25:31-05:00</lastmod>
+<image:image>
+<image:loc>https://sycarion.github.io/media/posts/2/etruscand12-3.png</image:loc>
+<image:title><![CDATA[from An Etruscan Dodecahedron by Amelia Carolina Sparavigna https://arxiv.org/abs/1205.0706]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sycarion.github.io/dimensions-and-universes/</loc>
+<lastmod>2023-11-13T04:16:39-06:00</lastmod>
+</url>
+<url>
+<loc>https://sycarion.github.io/directory-of-universes/</loc>
+<lastmod>2023-09-23T06:37:29-05:00</lastmod>
+<image:image>
+<image:loc>https://sycarion.github.io/media/posts/8/a-synopsis-of-the-universe-or-the-visible-world-epitomizd-1-1024.jpg</image:loc>
+<image:title><![CDATA[An old drawing of the sun, planets, and other worlds of the universe]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sycarion.github.io/learning-a-static-site-generator/</loc>
+<lastmod>2023-07-06T19:37:01-05:00</lastmod>
+</url>
+<url>
+<loc>https://sycarion.github.io/the-ezekiel-light/</loc>
+<lastmod>2023-11-12T22:48:46-06:00</lastmod>
+</url>
+<url>
+<loc>https://sycarion.github.io/the-sabafly-owls/</loc>
+<lastmod>2023-11-13T03:33:01-06:00</lastmod>
+<image:image>
+<image:loc>https://sycarion.github.io/media/posts/12/13955898970_90e9531712_o.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sycarion.github.io/the-sycarion-continuum/</loc>
+<lastmod>2023-11-13T04:16:30-06:00</lastmod>
+</url>
+<url>
+<loc>https://sycarion.github.io/the-vending-machine/</loc>
+<lastmod>2023-07-22T14:43:47-05:00</lastmod>
+<image:image>
+<image:loc>https://sycarion.github.io/media/posts/10/VendingMachine.jpg</image:loc>
+<image:title><![CDATA[A picture of an old black vending machine]]></image:title>
+</image:image>
+</url>
+</urlset>

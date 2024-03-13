@@ -3,32 +3,12 @@
     <title>Sycarion Continuum</title>
     <link href="https://sycarion.github.io/feed.xml" rel="self" />
     <link href="https://sycarion.github.io" />
-    <updated>2023-11-13T19:49:06-06:00</updated>
+    <updated>2023-11-13T04:16:39-06:00</updated>
     <author>
         <name>Bear</name>
     </author>
     <id>https://sycarion.github.io</id>
 
-    <entry>
-        <title>Changing Serve Configuration</title>
-        <author>
-            <name>Bear</name>
-        </author>
-        <link href="https://sycarion.github.io/changing-serve-configuration/"/>
-        <id>https://sycarion.github.io/changing-serve-configuration/</id>
-
-        <updated>2023-11-13T19:49:06-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Let's just see if this works.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Let's just see if this works.</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>The Sabafly Owls</title>
         <author>
@@ -496,6 +476,54 @@
 <p><!-- wp:paragraph --></p>
 <p>The first handful of posts are already scheduled. The next sets of posts (maybe 30 to 40) will be things that are already written in various paper and digital archives.</p>
 <p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cosmology</title>
+        <author>
+            <name>Bear</name>
+        </author>
+        <link href="https://sycarion.github.io/cosmology/"/>
+        <id>https://sycarion.github.io/cosmology/</id>
+        <media:content url="https://sycarion.github.io/media/posts/3/mandala-kunst-muster-hintergrund-16646296963a7.jpg" medium="image" />
+            <category term="worldbuilding"/>
+            <category term="psuedoscience"/>
+            <category term="cosmology"/>
+
+        <updated>2019-05-05T22:20:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sycarion.github.io/media/posts/3/mandala-kunst-muster-hintergrund-16646296963a7.jpg" alt="A mandala representing the complex nature of existence" />
+                    Introduction Throughout the vast infinite multiverses known as the Omniverse, there are 10 dimensions, 1 Fundamental Force, and 1 Fundamental Particle. The Fundamental&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sycarion.github.io/media/posts/3/mandala-kunst-muster-hintergrund-16646296963a7.jpg" class="type:primaryImage" alt="A mandala representing the complex nature of existence" /></p>
+                <h1>Introduction</h1>
+<p>Throughout the vast infinite multiverses known as the <strong>Omniverse</strong>, there are 10 dimensions, 1 Fundamental Force, and 1 Fundamental Particle.</p>
+<h2>The Fundamental Force and Fundamental Particle</h2>
+<p>The <strong>Fundamental Force</strong> exists in all multiverses and has infinite names. It is the force that holds all measurement, time, and possibilities together. The most common names are The Singularity, The Breath, Magic, The Universal Equation, or the OmniForce. In my worlds, the Fundamental Force is called <strong>Magic</strong>.</p>
+<p>The Fundamental Particle is known only in some of the multiverses where sentient species actively interact with the Fundamental Force. Like the Fundamental Force, it has an infinite number of names. In this game, the Fundamental Particle is called an <strong>Ousia</strong>.</p>
+<h2>Dimensions</h2>
+<p>The first four dimensions are familiar to many: length, width, depth, and time. All creatures move about in space-time within their respective universes. In other words, creatures travel from one place to another and experience time as a series of moments that make up the past and the present moment. The future represents moments that have yet to occur. For a game that never ventures to other galaxies and stays largely centered on Earth, this will be all that any character needs to know.</p>
+<p>For time travel within a universe, <strong>Chronotons</strong> or <em>Time Particles</em> are used to generate a field that measures relative time. Once time is mapped, time travel is possible.</p>
+<h3>Parallel Universes</h3>
+<p>Dimensions five and six deal with probability and all possible outcomes of events that happen in any given moment. <span class="md-plain"><strong>Pithanotons</strong> or <em>Probability Particles</em> are used to generate a field that measures relative probabilities of parallel universes. In other words, It is a GPS of parallel universal travel that enables you to safely travel back and forth in parallel universes. </span><span class="md-plain"><strong>Hexaton Fields</strong> are a combination of Pithanoton and Chronoton particles that allow travel to parallel worlds <em>at any point in time</em> in those worlds. </span></p>
+<p><span class="md-plain">For universes that develop travel to parallel universes, Hexaton Fields allow travellers to arrive back in their homeworld at the exact moment after they left.</span></p>
+<h3>Strange Universes</h3>
+<p>Dimensions seven, eight, and nine are comprised of completely alien universes where the laws of physics operate differently. These universes include the realms of the Gods, anti-matter universes, and madness-inducing horrors.</p>
+<p>Travel to these worlds requires the use of the Fundamental Force or the Fundamental Particle. <strong>Magic</strong> is typical for universes that are not scientifically developed, <strong>Ousia</strong> is used in worlds that have an advanced understanding of science and magic. It is not possible to understand Ousia without an understanding of Magic.</p>
+<h2>Summary</h2>
+<ul>
+<li>The Omniverse is comprised of all possible universes within all ten dimensions.</li>
+<li>Magic is not unexplained science, it is a fundamental force that exists everywhere in the Omniverse.</li>
+<li>With the right science, it is possible to travel in space, time, and parallel universes.</li>
+<li>With magic, it is possible to travel in space, time, parallel universes, <em>and strange universes.</em></li>
+</ul>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
             ]]>

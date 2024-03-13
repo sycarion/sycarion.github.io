@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://sycarion.github.io/changing-serve-configuration/",
-            "url": "https://sycarion.github.io/changing-serve-configuration/",
-            "title": "Changing Serve Configuration",
-            "summary": "Let's just see if this works.",
-            "content_html": "<p>Let's just see if this works.</p>",
-            "author": {
-                "name": "Bear"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-11-13T19:49:06-06:00",
-            "date_modified": "2023-11-13T19:49:06-06:00"
-        },
-        {
             "id": "https://sycarion.github.io/the-sabafly-owls/",
             "url": "https://sycarion.github.io/the-sabafly-owls/",
             "title": "The Sabafly Owls",
@@ -173,6 +159,24 @@
             ],
             "date_published": "2022-08-27T05:22:50-05:00",
             "date_modified": "2023-11-13T04:16:30-06:00"
+        },
+        {
+            "id": "https://sycarion.github.io/cosmology/",
+            "url": "https://sycarion.github.io/cosmology/",
+            "title": "Cosmology",
+            "summary": "Introduction Throughout the vast infinite multiverses known as the Omniverse, there are 10 dimensions, 1 Fundamental Force, and 1 Fundamental Particle. The Fundamental&hellip;",
+            "content_html": "<h1>Introduction</h1>\n<p>Throughout the vast infinite multiverses known as the <strong>Omniverse</strong>, there are 10 dimensions, 1 Fundamental Force, and 1 Fundamental Particle.</p>\n<h2>The Fundamental Force and Fundamental Particle</h2>\n<p>The <strong>Fundamental Force</strong> exists in all multiverses and has infinite names. It is the force that holds all measurement, time, and possibilities together. The most common names are The Singularity, The Breath, Magic, The Universal Equation, or the OmniForce. In my worlds, the Fundamental Force is called <strong>Magic</strong>.</p>\n<p>The Fundamental Particle is known only in some of the multiverses where sentient species actively interact with the Fundamental Force. Like the Fundamental Force, it has an infinite number of names. In this game, the Fundamental Particle is called an <strong>Ousia</strong>.</p>\n<h2>Dimensions</h2>\n<p>The first four dimensions are familiar to many: length, width, depth, and time. All creatures move about in space-time within their respective universes. In other words, creatures travel from one place to another and experience time as a series of moments that make up the past and the present moment. The future represents moments that have yet to occur. For a game that never ventures to other galaxies and stays largely centered on Earth, this will be all that any character needs to know.</p>\n<p>For time travel within a universe, <strong>Chronotons</strong> or <em>Time Particles</em> are used to generate a field that measures relative time. Once time is mapped, time travel is possible.</p>\n<h3>Parallel Universes</h3>\n<p>Dimensions five and six deal with probability and all possible outcomes of events that happen in any given moment. <span class=\"md-plain\"><strong>Pithanotons</strong> or <em>Probability Particles</em> are used to generate a field that measures relative probabilities of parallel universes. In other words, It is a GPS of parallel universal travel that enables you to safely travel back and forth in parallel universes. </span><span class=\"md-plain\"><strong>Hexaton Fields</strong> are a combination of Pithanoton and Chronoton particles that allow travel to parallel worlds <em>at any point in time</em> in those worlds. </span></p>\n<p><span class=\"md-plain\">For universes that develop travel to parallel universes, Hexaton Fields allow travellers to arrive back in their homeworld at the exact moment after they left.</span></p>\n<h3>Strange Universes</h3>\n<p>Dimensions seven, eight, and nine are comprised of completely alien universes where the laws of physics operate differently. These universes include the realms of the Gods, anti-matter universes, and madness-inducing horrors.</p>\n<p>Travel to these worlds requires the use of the Fundamental Force or the Fundamental Particle. <strong>Magic</strong> is typical for universes that are not scientifically developed, <strong>Ousia</strong> is used in worlds that have an advanced understanding of science and magic. It is not possible to understand Ousia without an understanding of Magic.</p>\n<h2>Summary</h2>\n<ul>\n<li>The Omniverse is comprised of all possible universes within all ten dimensions.</li>\n<li>Magic is not unexplained science, it is a fundamental force that exists everywhere in the Omniverse.</li>\n<li>With the right science, it is possible to travel in space, time, and parallel universes.</li>\n<li>With magic, it is possible to travel in space, time, parallel universes, <em>and strange universes.</em></li>\n</ul>\n<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>",
+            "image": "https://sycarion.github.io/media/posts/3/mandala-kunst-muster-hintergrund-16646296963a7.jpg",
+            "author": {
+                "name": "Bear"
+            },
+            "tags": [
+                   "worldbuilding",
+                   "psuedoscience",
+                   "cosmology"
+            ],
+            "date_published": "2019-05-05T22:20:50-05:00",
+            "date_modified": "2023-07-22T14:46:05-05:00"
         }
     ]
 }
